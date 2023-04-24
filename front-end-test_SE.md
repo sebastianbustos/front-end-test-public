@@ -40,6 +40,6 @@ Bonuspoäng:
 * Använd något modern ramverk efter eget tycke.
 
 En sak till:
-* Jan bifogar [följande fil](https://github.com/sebastianbustos/front-end-test-public/blob/main/retailers.json) som han har fått på en kille på IT-avdelningen. Den skulle tydligen kunna hjälpa dig. Vad du väljer att göra med den är upp till dig.
+* Jan bifogar [följande fil](https://github.com/sebastianbustos/front-end-test-public/blob/main/retailers.json) som han har fått av en kille på IT-avdelningen. Den skulle tydligen kunna hjälpa dig. Vad du väljer att göra med den är upp till dig.
 
 Lycka till!
