@@ -1,0 +1,50 @@
+[
+  {
+		"id": 38765,
+		"name": "Janssons Glas & Båg",
+		"city": "Norrtälje",
+		"url": "https://www.janssonsglasochbag.se"
+	},
+	{
+		"id": 48576,
+		"name": "Ögonmästaren",
+		"city": "Malmö",
+		"url": "https://www.ogonmastaren.se"
+	},
+	{
+		"id": 89824,
+		"name": "Optikergurun",
+		"city": "Jönköping",
+		"url": "https://www.optikergurun.se"
+	},
+	{
+		"id": 33548,
+		"name": "Mister Shade",
+		"city": "Linköping",
+		"url": "https://www.mistershade.se"
+	},
+	{
+		"id": 54623,
+		"name": "Eye eye captain",
+		"city": "Norrköping",
+		"url": "https://www.eyeeyecaptain.se"
+	},
+	{
+		"id": 98730,
+		"name": "Glas für alle",
+		"city": "Örebro",
+		"url": "https://www.glasfuralle.se"
+	},
+	{
+		"id": 53657,
+		"name": "Synoteket",
+		"city": "Halmstad",
+		"url": "https://www.synoteket.se"
+	},
+	{
+		"id": 72653,
+		"name": "Synologen",
+		"city": "Umeå",
+		"url": "https://www.synologen.se"
+	}
+]
